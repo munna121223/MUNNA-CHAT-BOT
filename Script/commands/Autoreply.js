@@ -22,12 +22,12 @@ module.exports.handleEvent = async function ({ api, event }) {
 
   const responses = {
     "miss you": "অরেক বেডারে Miss না করে xan মেয়ে হলে বস MUNNA রে হাঙ্গা করো😶👻😘",
-    "miss u too": "হুম আমি ও তোমাকে Miss করি... কিন্তু MUNNA বস বেশি করে 😏💖",
+    "SAMI KE": "SAMI AKTA NOOB 😏",
     "kiss de": "কিস দিস না তোর মুখে দূর গন্ধ কয়দিন ধরে দাঁত ব্রাশ করিস নাই🤬",
     "👍": "সর এখান থেকে লাইকার আবাল..!🐸🤣👍⛏️",
     "hi": "এত হাই-হ্যালো কর ক্যান প্রিও..!😜🫵",
-    "bc": "SAME TO YOU😊",
-    "pro": "Khud k0o KYa LeGend SmJhTi Hai 😂",
+    "MUNNA KEMON": "MUNNA AMAR BOSS SE ONEK VALO MANUS😊",
+    "CHUP": "VAG SALA 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "good night": "Sweet Dream babu… তবে আগে MUNNA বস কে GN বলে নিও 😏💤",
     "tor bal": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
@@ -58,8 +58,8 @@ module.exports.handleEvent = async function ({ api, event }) {
     "pagol": "হুম পাগল, কিন্তু তোমারই পাগল 😏😂",
     "breakup": "চিন্তা করিস না… munna বস তো আছেই তোকে নতুন জন দিয়া দিবে 😎🔥",
     "tui ke": "আমি তোর বস munna এর ChatBot 😏",
-    "umm": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
-    "hmm": "Hmmm কিসের হুমম জানু 🥵",
+    "": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
+    "STOP": "TUI CHUP KOR BLOD",
     "alpha ke": "alpha akta bokachoda"
   };
 
