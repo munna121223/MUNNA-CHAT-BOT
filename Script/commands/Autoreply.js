@@ -30,7 +30,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "CHUP": "VAG SALA 😂",
     "good morning": "GOOD MORNING দাত ব্রাশ করে খেয়ে নেও😚",
     "good night": "Sweet Dream babu… তবে আগে MUNNA বস কে GN বলে নিও 😏💤",
-    "tor bal": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
+    "bal": "~ এখনো বাল উঠে নাই নাকি তোমার?? 🤖",
     "munna": "উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",
     "owner": "‎[𝐎𝐖𝐍𝐄𝐑:☞ MUNNA ☜\nFacebook: https://www.facebook.com/munna615127",
     "admin": "He is Munna Ahmed তাকে সবাই MUNNA হিসেবে চিনে😘☺️",
@@ -58,7 +58,7 @@ module.exports.handleEvent = async function ({ api, event }) {
     "pagol": "হুম পাগল, কিন্তু তোমারই পাগল 😏😂",
     "breakup": "চিন্তা করিস না… munna বস তো আছেই তোকে নতুন জন দিয়া দিবে 😎🔥",
     "tui ke": "আমি তোর বস munna এর ChatBot 😏",
-    "": "এতো Umm কেনো জানু… কিছু বলবা? 😉",
+    "GROUP ER SOB THEKE VALO KE": "AMAR BOSS MUNNA 😉",
     "STOP": "TUI CHUP KOR BLOD",
     "alpha ke": "alpha akta bokachoda"
   };
